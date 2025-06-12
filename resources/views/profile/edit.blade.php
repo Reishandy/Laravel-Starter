@@ -1,4 +1,4 @@
-<x-layout.guest>
+<x-layout.app>
     <x-navbar/>
 
     <x-header title="Profile" description="Update your account's profile information, password, and delete."/>
@@ -24,4 +24,4 @@
             </div>
         </div>
     </div>
-</x-layout.guest>
+</x-layout.app>
